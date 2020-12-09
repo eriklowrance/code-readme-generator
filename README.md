@@ -1,14 +1,13 @@
-# a
+# README Generator
 
   ## Description 
     
-a
+An app to generate a professional README
   
  
   
-  ## Table of Contents (Optional)
+  ## Table of Contents
   
-  If your README is very long, add a table of contents to make it easy for users to find what they need.
   
   * [Installation](#installation)
   * [Usage](#usage)
@@ -20,15 +19,15 @@ a
   
   ## Installation
   
-a
+N/A
   
   ## Usage 
   
-a
+Follow prompts to generate a README
 
   ## License
   
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 
   
@@ -36,7 +35,7 @@ a
   
   ## Contributing
   
-  a
+  N/A
 
   
   ---
@@ -45,3 +44,6 @@ a
 
   GitHub Profile: https://github.com/eriklowrance<br>
   Email me: eriklowrance@gmail.com
+
+  ## User Walkthrough
+  [Link to video](https://drive.google.com/file/d/1UdbGImgKeDrpsXDXXruQ8YrTaytK0e_v/view)
